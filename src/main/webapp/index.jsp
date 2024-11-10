@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>Welcome to Skill Day</h1>
+    <h2>Update version</h2>
+    <h3>Added new featues</h3>
 </body>
 </html>
